@@ -21,7 +21,7 @@ are labelled.
     * **Faults/San_An.shp** - San Andreas Faultline as it runs through Los Angeles county.
     * **Faults/Minor.shp** - Other minor faultlines as they run through Los Angeles county.
 
-  **Census/Enriched_LA_County_Census_Tracts_2015.shp** - Census tracts shapefile with demographic data.
+  * **Census/Enriched_LA_County_Census_Tracts_2015.shp** - Census tracts shapefile with demographic data.
 
   * **DEM/DEM1.tif** - DEM of Los Angeles County.
 
